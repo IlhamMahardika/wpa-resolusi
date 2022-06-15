@@ -1,0 +1,6 @@
+Rencana Belajar Coding
+
+- Javasript
+ * ES6 (Syntax JS)
+ * Framework JS
+- PHP Frameworks
